@@ -1,6 +1,7 @@
 # wm-project-final-Jordan-Z
 
-Objective - create a summarizer that makes a summary from any article on the web. 
+Objective - create a summarizer that makes a summary from any article on the web.
+ 
 Question - Is an article's title really a good representation of the article?
 
 Create a summary using clustering. Creates an automated summary of an article by finding how often words are used in each sentence.
