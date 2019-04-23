@@ -25,4 +25,5 @@ requests,
 BeautifulSoup, 
 nltk, 
 re, 
-numpy
+numpy,
+difflib
